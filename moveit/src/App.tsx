@@ -5,9 +5,9 @@ function App() {
     <>
       <h1>Hello NLW 4</h1>
 
-      <Button />
-      <Button />
-      <Button />
+      <Button color="red">Botão 1</Button>
+      <Button color="blue">Botão 1</Button>
+      <Button color="green">Botão 1</Button>
     </>
   );
 }
